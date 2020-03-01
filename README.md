@@ -12,5 +12,13 @@ This is a web application for Attendance Marking powered by Live Face Recognitio
 5. FaceAPI JavaScript Library (For Live Face Recognition & Attendance Marking)
 
 
-
 Some Functions on the online website are kept incomplete for code privacy...
+
+
+### Team Members:
+1. Aman Gupta (Myself) https://amanguptablog.netlify.com/
+2. Aman Chauhan
+3. Anshi Agrawal
+4. Ariesha Mittal
+5. Deepak Jain
+6. Rajat Shrivastava
