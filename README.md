@@ -16,9 +16,9 @@ Some Functions on the online website are kept incomplete for code privacy...
 
 
 ### Team Members:
-1. Aman Gupta (Myself) https://amanguptablog.netlify.com/
-2. Aman Chauhan
-3. Anshi Agrawal
-4. Ariesha Mittal
-5. Deepak Jain
+1. Aman Gupta (Myself) 	https://amanguptablog.netlify.com/
+2. Aman Chauhan		https://github.com/amanthakur1
+3. Anshi Agrawal	https://github.com/AnshiAggarwal
+4. Ariesha Mittal	
+5. Deepak Jain		https://github.com/dj1186
 6. Rajat Shrivastava
