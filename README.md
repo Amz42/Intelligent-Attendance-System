@@ -16,9 +16,9 @@ Some Functions on the online website are kept incomplete for code privacy...
 
 
 ### Team Members:
-1. Aman Gupta (Myself) 	https://amanguptablog.netlify.com/
-2. Aman Chauhan		https://github.com/amanthakur1
-3. Anshi Agrawal	https://github.com/AnshiAggarwal
-4. Ariesha Mittal	https://github.com/ariesha-1702
-5. Deepak Jain		https://github.com/dj1186
-6. Rajat Shrivastava	https://github.com/rajathandsom
+1. Aman Gupta (Myself) 	https://amanguptablog.netlify.com/	(Face Recognition & Attendance marking)
+2. Aman Chauhan		https://github.com/amanthakur1		(Backend & Database)
+3. Anshi Agrawal	https://github.com/AnshiAggarwal	(Face Recognition)
+4. Ariesha Mittal	https://github.com/ariesha-1702		(Data Base Manager)
+5. Deepak Jain		https://github.com/dj1186		(UI Design)
+6. Rajat Shrivastava	https://github.com/rajathandsom		(Backend & Database)
